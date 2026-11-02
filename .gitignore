@@ -1,0 +1,7 @@
+.env
+*.log
+.mysql_history
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
