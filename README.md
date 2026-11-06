@@ -5,12 +5,8 @@
 Este projeto apresenta a configuração de um ambiente MySQL utilizando Docker Compose. A proposta é permitir que diferentes desenvolvedores utilizem a mesma configuração de banco de dados, facilitando a reprodução do ambiente em suas máquinas.
 
 ## Vídeo do laboratório
-
-**Assista ao passo a passo da configuração e execução deste laboratório.**
-
-*Link do vídeo no YouTube — será adicionado após a publicação.*
-
-`[INSERIR LINK DO VÍDEO]`
+* [Passo a passo da configuração e execução deste laboratório](https://youtu.be/oL9_P8jOjYg?si=zdqgwTvuRNul0zdl)
+* [Como configurar WSL e Docker Desktop](https://www.youtube.com/watch?v=qrvx6ivyrQw)
 
 ## Tecnologias utilizadas
 
